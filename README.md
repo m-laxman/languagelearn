@@ -1,4 +1,4 @@
 # languagelearn
 An Android app to learn language
 # Screenshot
-![](ss.png)
+<img src="ss.png" height = "200" width="50"/>
